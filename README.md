@@ -1,4 +1,4 @@
-### 公益免费v2ray节点订阅 每日更新（标题）
+### 公益免费v2ray节点订阅
 
 高性价比机场推荐: <a href="https://super.quicklinkapp.top/">JumpLink</a> 
 
