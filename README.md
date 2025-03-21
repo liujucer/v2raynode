@@ -29,4 +29,4 @@ v2rayN：CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户�
 
 
 JumpLink官网：https://super.jumplinkapp.top/<br>
-夏哈斯 官网：href="https://www.xiahas.top/
+夏哈斯 官网：https://www.xiahas.top/
