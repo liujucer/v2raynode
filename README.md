@@ -12,9 +12,9 @@
 🔥全程指导安装<br>
 <hr />
 <a href="https://www.xiahas.top/">夏哈斯</a><br />
-✔️ 稳定解锁主流流媒体平台。<br />
-✔️ 无在线设备限制，各地中转线路。<br />
-✔️ 24小时TG群组客服服务。<br />
+1、稳定解锁主流流媒体平台。<br />
+2、无在线设备限制，各地中转线路。<br />
+3、24小时TG群组客服服务。<br />
 
 ## 一.介绍
 本项目提供免费分享ssr，ss，vmess，trojan节点，订阅，tg代理白嫖资源，所有免费节点都爬取自网络，请勿用于非法用途！支持V2Ray、vpn、免费机场、无限流量，免费VPN，无限流量！V2Ray节点分享，支持v2ray，clash，小火箭！vpn，winxray、2rayNG，BifrostV，Clash，Kitsun ebi，V2rayN，V2rayW，Clash，V2rayS，Mellow，Qv2ray，v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理
